@@ -1,0 +1,1 @@
+This is my first sentence for MyStory2.txt
